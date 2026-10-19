@@ -1,5 +1,8 @@
-#  Hi there, I'm Atharv Math
- -💻 Student [2nd year ECE]
- -📌 Passionate about scalable backend systems & clean architecture  
- -🌱 Currently learning Verilog and CMOS Digital
- -🚀 Open to collaborations on exciting backend projects  
+# Hi, I'm Atharv Math 👋
+
+- 🎓 ECE student at RNSIT ('28)
+- 🔧 Into RTL design, Verilog, FPGAs, and CMOS digital
+- 🧠 Building a RISC-V RV32I core in Verilog
+- 📚 150+ HDLBits problems: [HDLBits-Solutions](https://github.com/HarvvMath/HDLBits-Solutions)
+- 🤝 Open to collaborating on digital design projects
+- 📫 atharv.math1919@gmail.com
